@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**nxbisgin/nxbisgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I am Neslihan Bisgin!
 
 - 🔭 I’m currently teaching data science.
 - 🔭 I'm also working on a data science project where I am using GPS data to understand customer behavior.
